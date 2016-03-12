@@ -1,7 +1,7 @@
 // Adafruit Motor shield library
 // copyright Adafruit Industries LLC, 2009
 
-#include <AFMotor.h>
+#include <AFMotor.h> //read the README to get this
 
 AF_DCMotor motor1(1); // set up motors.
 AF_DCMotor motor2(2);
