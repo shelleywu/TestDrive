@@ -11,15 +11,11 @@ void setup() {
   Serial.println("Motor test!");
 
   // turn on motor
-  motor1.setSpeed(255);
+  motor1.setSpeed(255); //set the speed for the motors. This is already max speed.
   motor2.setSpeed(255);
-  motor1.run(RELEASE);
-  motor2.run(RELEASE);
 }
 
 void loop() {
-  
-  Serial.print("tick");
 
   //motors don't go the same way because of wiring
   motor1.run(FORWARD);
