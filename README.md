@@ -29,13 +29,13 @@ Scotch tape is fine for this tester, as long as the wires are securely touching.
 
 Turn off wifi of the robot if any, or else, uploading the code will not run it.
 
-### Break down into end to end tests
+### Editing Code
 
 Optional to change the speed and direction of the wheels based on the comments.
 
-### And coding style tests
+### Coding Style
 
-TestDrive.ino uses comments as directions on how to edit the speed and direction of the wheels, and explanation on reasons behind each line.
+TestDrive.ino uses comments as directions on how to edit the speed and direction of the wheels, and explanation on reasons behind each line. Otherwise, TestDrive.ino is fairly easy to read.
 
 ## Deployment
 
