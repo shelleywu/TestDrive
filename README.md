@@ -41,6 +41,8 @@ TestDrive.ino uses comments as directions on how to edit the speed and direction
 
 Detach the wire from arduino, and put in batteries then let it run!
 
+This is how a semi-autonmous, obstacle-avoiding robot would look with TestDrive.ino:
+
 [![This is how it looks when using TestDrive to create a semi-autonmous, obstacle-avoiding robot.](https://img.youtube.com/vi/pu6evmJ-aMc/0.jpg)](https://www.youtube.com/watch?v=pu6evmJ-aMc)
 
 ## Built With
