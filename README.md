@@ -1,6 +1,6 @@
 # TestDrive
 
-TestDrive is a starter project to run Adafruit motor shields and Arduino Microcontroller Board. Since Adafruit and Arduino are different manufacturers, the motor shields are not compatitable with Arduino thus a library must be installed. TestDrive is a good starter to complete a semi-autonomous, obstacle-avoiding robot prototype using Arduino sensors and a robot smart car chassis.
+TestDrive is a starter project to run Adafruit motor shields and Arduino Microcontroller Board. Since Adafruit and Arduino are different manufacturers, the motor shields are not compatitable with Arduino thus a library must be installed. TestDrive is a good starter to complete a semi-autonomous, obstacle-avoiding robot prototype using Arduino ultrasonic sensors and a robot smart car chassis.
 
 ## Getting Started
 
